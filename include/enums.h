@@ -1,0 +1,15 @@
+#ifndef ENUMS
+#define ENUMS
+
+enum LIGHT_SOURCES
+{
+	POINT,
+	DIRECTIONAL,
+	SPOT,
+	AMBIENT,
+	AREA,
+	VOLUMETRIC
+};
+
+
+#endif

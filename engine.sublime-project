@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+
+		{
+			"path": "/home/swagman/Desktop/GameEngine"
+		}
+	],
+	"settings":
+	{
+		"sublimeclang_options":
+		[
+			"-I${this_file_path}/**",
+			"-I${project_path}/include"
+		]
+	}
+}

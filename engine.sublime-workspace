@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GL_DYN",
+				"GL_DYNAMIC_DRAW	macro"
+			],
+			[
+				"GL_LINE_ST",
+				"GL_LINE_STRIP	macro"
+			],
+			[
+				"GL_Po",
+				"GL_POINTS	macro"
+			],
+			[
+				"tra",
+				"triangle	GameObject"
+			],
+			[
+				"glDel",
+				"glDeleteBuffers	macro"
+			],
+			[
+				"GL_ELEME",
+				"GL_ELEMENT_ARRAY_BUFFER	macro"
+			],
+			[
+				"GL_UNS",
+				"GL_UNSIGNED_INT	macro"
+			],
+			[
+				"GL_ELEM",
+				"GL_ELEMENT_ARRAY_BUFFER	macro"
+			],
+			[
+				"hei",
+				"height	int"
+			],
+			[
+				"nu",
+				"numberofDegeneratesRequired	int"
+			],
+			[
+				"poi",
+				"pointCount	int"
+			],
+			[
+				"GL_LINE",
+				"GL_LINES	macro"
+			],
+			[
+				"GL_TRIANGLE",
+				"GL_TRIANGLE_STRIP	macro"
+			],
+			[
+				"ident",
+				"identity_mat4()	mat4"
+			],
+			[
+				"GL_STATIC",
+				"GL_STATIC_DRAW	macro"
+			],
+			[
+				"tem",
+				"tempString	char[]"
+			],
+			[
+				"he",
+				"height	int"
+			],
+			[
+				"wid",
+				"widthString	char[]"
+			],
+			[
+				"Qu",
+				"QuatToMat4(float *m, float *q)	void"
+			],
+			[
+				"ONE",
+				"ONE_DEG_IN_RAD(2.0*M_PI)	macro"
+			],
+			[
+				"cos",
+				"cosf(float __x)	float"
+			],
+			[
+				"scale",
+				"scaleMat	mat4"
+			],
+			[
+				"m",
+				"modelMat	mat4"
+			],
+			[
+				"att",
+				"AttachMesh(const char *source)	void"
+			],
+			[
+				"vec",
+				"vec3	struct"
+			],
+			[
+				"vie",
+				"view	mat4"
+			],
+			[
+				"y",
+				"yaw	float"
+			],
+			[
+				"pr",
+				"projectionMat	mat4"
+			],
+			[
+				"ve",
+				"vec3	struct"
+			],
+			[
+				"ca",
+				"camera	Camera"
+			],
+			[
+				"frag",
+				"fragmentShaderSource	int"
+			],
+			[
+				"verte",
+				"vertexShaderSource	int"
+			],
+			[
+				"fragm",
+				"fragmentShaderSource	int"
+			],
+			[
+				"ver",
+				"vertexShaderSource	int"
+			],
+			[
+				"vert",
+				"vertexShaderSource	char *"
+			],
+			[
+				"view",
+				"viewLocation	GLint"
+			],
+			[
+				"p",
+				"position	vec3"
+			],
+			[
+				"GLFW_KEY_D",
+				"GLFW_KEY_DOWN	macro"
+			],
+			[
+				"Camr",
+				"Camera	class"
+			],
+			[
+				"fra",
+				"fragmentShader	GLuint"
+			],
+			[
+				"com",
+				"compileLog	char*"
+			],
+			[
+				"lo",
+				"logSize	GLint"
+			],
+			[
+				"ide",
+				"identity_mat4()	mat4"
+			],
+			[
+				"Cre",
+				"CreateViewMat()	void"
+			],
+			[
+				"id",
+				"identity_mat4()	mat4"
+			],
+			[
+				"fo",
+				"forward	vec4"
+			],
+			[
+				"Create",
+				"CreateVersor(float *q, float a, float x, float y, float z)	void"
+			],
+			[
+				"ya",
+				"yawSpeed	float"
+			],
+			[
+				"pit",
+				"pitch	float"
+			],
+			[
+				"pith",
+				"pitchSpeed	float"
+			],
+			[
+				"pro",
+				"projectionLocation	GLint"
+			],
+			[
+				"A",
+				"AttachMesh(const char *source)	void"
+			],
+			[
+				"data",
+				"data	float [4]"
+			],
+			[
+				"glEnableVertexAtr",
+				"glEnableVertexAttribAPPLE	macro"
+			],
+			[
+				"fragment",
+				"fragmentShader"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"standar",
+				"standardShader"
+			],
+			[
+				"stand",
+				"standardShader"
+			],
+			[
+				"sou",
+				"sourceDirectory"
+			],
+			[
+				"shader",
+				"shaderProgram"
+			],
+			[
+				"shad",
+				"shaderProgram"
+			],
+			[
+				"so",
+				"sourceDirectory"
+			],
+			[
+				"Load",
+				"LoadFromText"
+			],
+			[
+				"SEEK",
+				"SEEK_SET"
+			],
+			[
+				"s",
+				"sourceDirectory"
+			],
+			[
+				"glbI",
+				"glBindVertexArray"
+			],
+			[
+				"main",
+				"mainTitle"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"Change",
+				"ChangeWindowTitleWithRefreshRate"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"Poi",
+				"pointCount"
+			],
+			[
+				"po",
+				"pointsVBO"
+			],
+			[
+				"color",
+				"colorsVBO"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"point",
+				"pointCount"
+			],
+			[
+				"unsor",
+				"unsortedPointCount"
+			],
+			[
+				"mesh",
+				"meshFilePointer"
+			],
+			[
+				"me",
+				"meshFilePointer"
+			],
+			[
+				"L",
+				"LINK_FLAGS2"
+			],
+			[
+				"LIN",
+				"LINKER_FLAGS"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"I",
+				"I"
+			],
+			[
+				"T",
+				"Triangle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/bone.cpp",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/bone.h",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Unix",
+				"name": "#ifndef BONE_H"
+			}
+		},
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 4744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/display.h",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"Sublime",
+				"Preferences: SublimeClang Settings – Default"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/swagman/Desktop/GameEngine/include/graphicsmath.h",
+		"/home/swagman/Desktop/GameEngine/Makefile",
+		"/home/swagman/Desktop/GameEngine/src/terain.cpp",
+		"/home/swagman/Desktop/GameEngine/src/main.cpp",
+		"/home/swagman/Desktop/GameEngine/include/mesh.h",
+		"/home/swagman/Desktop/GameEngine/src/mesh.cpp",
+		"/home/swagman/Desktop/GameEngine/include/terain.h",
+		"/home/swagman/Desktop/Exampled/GameEngine/src/camera.cpp",
+		"/home/swagman/Desktop/GameEngine/src/gameobject.cpp",
+		"/home/swagman/Desktop/GameEngine/shaders/terain/basic.frag",
+		"/home/swagman/Desktop/GameEngine/include/enums.h",
+		"/home/swagman/Desktop/GameEngine/include/light.h",
+		"/home/swagman/Desktop/GameEngine/src/shader.cpp",
+		"/home/swagman/Desktop/GameEngine/shaders/terain/basic.vert",
+		"/home/swagman/Desktop/GameEngine/engine.sublime-project",
+		"/home/swagman/Desktop/GameEngine/heightmap.pgm",
+		"/home/swagman/Desktop/535/N2/stuff.dat",
+		"/home/swagman/Desktop/535/N2/0to1.5.m",
+		"/home/swagman/Desktop/535/Toolbox/Regress1Paredit.m",
+		"/home/swagman/Desktop/535/Toolbox/Regress2Par.m",
+		"/home/swagman/Desktop/535/Toolbox/R2P.dat",
+		"/home/swagman/Desktop/GameEngine/src/camera.cpp",
+		"/home/swagman/Desktop/GameEngine/include/gameobject.h",
+		"/home/swagman/Desktop/testpoints",
+		"/home/swagman/Desktop/GameEngine/src/graphicsmath.cpp",
+		"/home/swagman/Desktop/GameEngine/include/display.h",
+		"/home/swagman/Desktop/GameEngine/src/display.cpp",
+		"/home/swagman/Desktop/GameEngine/shaders/standardcamera/standardcamera.vert",
+		"/home/swagman/Desktop/GameEngine/plane.mo",
+		"/home/swagman/Desktop/GameEngine/shaders/standardcamera/standardcamera.frag",
+		"/home/swagman/Desktop/GameEngine/triangle.mo",
+		"/home/swagman/Desktop/GameEngine/include/shader.h",
+		"/home/swagman/Desktop/GameEngine/shaders/standard/standard.frag",
+		"/home/swagman/Desktop/GameEngine/include/camera.h",
+		"/home/swagman/Desktop/GameEngine/shaders/standard/standard.vert",
+		"/home/swagman/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/swagman/.config/sublime-text-2/Packages/User/SublimeClang.sublime-settings",
+		"/home/swagman/Desktop/Dev/ORE/src/shader.cpp",
+		"/home/swagman/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/swagman/Desktop/antons_opengl_tutorials_book-master/06_vcam_with_quaternion/main.cpp",
+		"/home/swagman/Desktop/antons_opengl_tutorials_book-master/06_vcam_with_quaternion/obj_parser.cpp",
+		"/home/swagman/Downloads/OculusSDK/Samples/OculusWorldDemo/OculusWorldDemo.cpp",
+		"/home/swagman/Desktop/VRE/ovr_sdk_linux_0.4.4/LibOVR/Src/Kernel/OVR_SharedMemory.cpp",
+		"/home/swagman/Desktop/Test/Triangle.cpp",
+		"/home/swagman/Desktop/Test/Triangle.h",
+		"/home/swagman/Desktop/Engine/Graphics/src/main.cpp",
+		"/home/swagman/Desktop/ORE/headers/shader.h",
+		"/home/swagman/Desktop/ORE/src/display.cpp",
+		"/home/swagman/Desktop/Test/triangle.vert",
+		"/home/swagman/Desktop/Test/triangle.frag",
+		"/home/swagman/Desktop/antons_opengl_tutorials_book-master/06_vcam_with_quaternion/maths_funcs.cpp",
+		"/home/swagman/Desktop/antons_opengl_tutorials_book-master/05_virtual_camera/main.cpp",
+		"/home/swagman/Desktop/Test/window.cpp",
+		"/home/swagman/Desktop/Test/Triangle.H"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gl",
+			"mode",
+			"POLYGON",
+			"printf",
+			"pointCount",
+			"]);\n",
+			"rotate",
+			"rotate_x",
+			"translate",
+			"			",
+			");\n",
+			"	\n",
+			"cam_roll",
+			"camera.camera",
+			"quaternion",
+			"camer.pitch",
+			"forward",
+			"right",
+			"up",
+			"camRoll",
+			"camYaw",
+			"camPitch",
+			"cam_yaw",
+			"rgt",
+			"up\\\\\\\\",
+			"rht",
+			"elapsed_seconds",
+			"forward",
+			"fwd",
+			"cam_moved",
+			"R",
+			"quat_to_mat4",
+			"cam_pitch",
+			"mult_quat_quat",
+			"create_versor",
+			"g_window",
+			"camSpeed",
+			"cam_moved",
+			"can_moved",
+			"g_window",
+			"elapsed_seconds",
+			"cam_speed",
+			"move",
+			"window",
+			"GLFWKeyCallback",
+			"shm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"camera.roll",
+			"camera",
+			"camera.quaternion",
+			"camera.pitch",
+			"camera.forward",
+			"camera.right",
+			"camera.up",
+			"roll",
+			"yaw",
+			"pitch",
+			"camera.camYaw",
+			"right",
+			"camera.right",
+			"elapsedTime",
+			"camera.forward",
+			"forward",
+			"camMoved",
+			"camera.rotation",
+			"QuatToMat4",
+			"camer.camPitch",
+			"MultQuatQuat",
+			"CreateVersor",
+			"window",
+			"camera.camSpeed",
+			"camMoved",
+			"window",
+			"elapsedTime",
+			"camSpeed",
+			"moveVector"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/bone.cpp",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1520,
+								1520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 935.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/bone.h",
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#ifndef BONE_H",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main.cpp",
+					"settings":
+					{
+						"buffer_size": 4744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3238,
+								3238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1209.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/display.h",
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"include/camera.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true
+}
